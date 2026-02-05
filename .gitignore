@@ -1,3 +1,5 @@
+.gitignore
+
 # Служебные файлы сборки Maven
 target/
 **/target/
