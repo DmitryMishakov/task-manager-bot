@@ -16,5 +16,4 @@ Thumbs.db
 
 # Логи приложения
 *.log
-logs/!/.gitignore
-!/.gitignore
+logs/
