@@ -1,0 +1,19 @@
+# Служебные файлы сборки Maven
+target/
+**/target/
+pom.xml.tag
+pombak.xml
+
+# Файлы и папки среды разработки
+.idea/
+*.iml
+*.iws
+.openide/
+
+# Файлы операционной системы
+.DS_Store
+Thumbs.db
+
+# Логи приложения
+*.log
+logs/
