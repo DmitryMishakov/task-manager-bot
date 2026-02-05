@@ -1,5 +1,3 @@
-.gitignore
-
 # Служебные файлы сборки Maven
 target/
 **/target/
@@ -18,4 +16,4 @@ Thumbs.db
 
 # Логи приложения
 *.log
-logs/
+logs/!/.gitignore
